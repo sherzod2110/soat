@@ -1,0 +1,232 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Mulish', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+.box{
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.box-list{
+  display: flex;
+  list-style-type: none;
+  margin-left: 90px;
+}
+.list-box{
+  margin-left: 80px;
+}
+.list-boxx{
+  margin-left: 40px;
+}
+.list-boxs{
+  margin-left: 60px;
+}
+.list-boxaa{
+  margin-left: 40px;
+}
+.list-box-1{
+  text-decoration: none;
+  color: #555248
+}
+.box-itam{
+  align-items: center;
+  justify-content: space-between;
+  width: 1200px;
+  margin: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  display: flex;
+}
+.box-li{
+  margin-left: 100px;
+  align-items: center;
+  width: 303px;
+}
+.watch_photo{
+  width: 400;
+  height: 600;
+}
+.link-batton{
+  border: none;
+  cursor: pointer;
+  width: 160px;
+  height: 50px;
+  color: aliceblue;
+  background-color: rgb(83, 80, 80);
+}
+.femily{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+  color: #1B1A17;;
+}
+.fons{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 60px;
+  width:  500px;
+}
+.sarlavha2{
+  text-align: center;
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 43px;
+  color: #1B1A17;
+}
+.spring{
+  text-align: end;
+}
+.chiziq{
+  width: 100px;
+}
+.summu{
+  width: 1200px;
+  margin: auto;
+}
+.summur{
+  width: 1200px;
+  margin: auto;
+  display: flex;
+}
+.radoa{
+  width: 400px;
+}
+.radoo{
+  width: 400px;
+}
+.rado{
+  width: 400px;
+}
+.outom{
+  display: flex;
+  width: 1200px;
+  margin: auto;
+  align-items: center;
+}
+.winter{
+  width: 400px;
+  align-items: center;
+  margin-left: 100px;
+}
+.sherzod{
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 43px;
+  color: #1B1A17;
+}
+.pin{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+  color: darkgray;
+}
+.kursor{
+  border: none;
+  cursor: pointer;
+  width: 160px;
+  height: 50px;
+  color: aliceblue;
+  background-color: rgb(83, 80, 80);
+}
+.fifa{
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+.cledi{
+  width: 400px;
+
+}
+.conik{
+  margin-top: 80px;
+}
+.fullo{
+  display: flex;
+  margin-left: 120px;
+}
+.folo{
+  margin-left: 5px;
+}
+.kitob{
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 43px;
+  color: #1B1A17;
+}
+.wifi{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+  color: darkgray;
+}
+.chiziq{
+  text-decoration: none;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: rgba(255, 255, 255, 0.75);
+}
+.moning{
+  margin-bottom: 20px;
+  list-style-type: none;
+  color: aliceblue;
+}
+.flexe{
+  height: 200px;
+  width: 1300px;
+  margin: auto;
+  background-color: #444240;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.klavi{
+  list-style-type: none;
+}
+.adidas{
+  list-style-type: none;
+  text-decoration: none;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: rgba(255, 255, 255, 0.75);
+}
+.faxriy{
+  list-style-type: none;
+  text-decoration: none;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: white;
+}
+.oplata{
+  margin-right: 50px;
+}
+
+
